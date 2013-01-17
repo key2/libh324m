@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1
+END
+BEREncoder.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/BEREncoder.cxx
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/stdafx.cpp
+END
+asn1_useful.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/asn1_useful.h
+END
+AVNDecoder.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/AVNDecoder.cxx
+END
+PERDecoder.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/PERDecoder.cxx
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/Makefile
+END
+ios_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/ios_helper.h
+END
+multimedia_system_control.inl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/multimedia_system_control.inl
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/stdafx.h
+END
+AssocVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/AssocVector.h
+END
+multimedia_system_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/multimedia_system_control.h
+END
+ValidChecker.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/ValidChecker.cxx
+END
+AVNEncoder.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/AVNEncoder.cxx
+END
+PEREncoder.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/PEREncoder.cxx
+END
+asn1.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/asn1.h
+END
+InvalidTracer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/InvalidTracer.cxx
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/config.h
+END
+BERDecoder.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/BERDecoder.cxx
+END
+multimedia_system_control.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/multimedia_system_control.cxx
+END
+asn1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/asn1.cxx
+END
+CoderEnv.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/lib3gpph324m/!svn/ver/70/trunk/asn1/CoderEnv.cxx
+END
